@@ -142,7 +142,7 @@ export default function TopBar() {
       <Wrapper>
         <LogoWrapper onClick={() => history.push(tradePageUrl)}>
           <img src={logo} alt="" />
-          {'SERUM'}
+          {'PIP-DEX'}
         </LogoWrapper>
         <Menu
           mode="horizontal"
